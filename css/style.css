@@ -55,3 +55,9 @@ a.social-link:hover{
     background-color: var(--main-hover);
     color: #fff;
 }
+@media (max-width: 767px) {
+    .social-cont{
+        height: 100vh;
+        height: calc(var(--vh, 1vh) * 100);
+    }
+}
