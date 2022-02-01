@@ -50,9 +50,6 @@ a.social-link {
     text-decoration: none;
     transition: all 0.3s ease-in-out;
 }
-a.social-link:last-of-type{
-    margin-right: 0;
-}
 a.social-link:hover{
     text-decoration: none;
     background-color: var(--main-hover);
